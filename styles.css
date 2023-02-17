@@ -1,0 +1,44 @@
+/*----Generales----*/
+{box-sizing: border-box;
+
+}
+body{
+  margin: 0;
+  background-color:
+#1B2631;
+}
+/*----Del Formulario----*/
+
+.container{
+
+	max-width:30%;
+	padding:30px 50px;
+	margin:auto;
+	background:#1B2631
+;
+	
+}
+/*----Del Formulario----*/
+.form{
+	max-width:500px;
+	padding:30px 50px;
+	margin:auto;
+	margin-top:10px;
+	background:#2E4053
+;
+
+}
+.form-titulo{
+	font-weight:bold;
+	font-size:20px;
+	text-align:center;
+	margin:0;
+	margin-bottom:20px;
+	color:#566573;
+	
+}
+.form input{
+	margin-bottom:20px;
+	color:#566573;
+	font-size:15px;
+}
